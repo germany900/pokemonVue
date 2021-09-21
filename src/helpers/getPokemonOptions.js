@@ -5,7 +5,7 @@ const getPokemons = () => {
 };
 
 const getPokemonOptions = () => {
-  const migetPokemons()
+  const = migetPokemons();
 };
 
 export default getPokemonOptions;
